@@ -9,7 +9,7 @@ public class PrimeNumbers {
 
     public static void main(String[] args) {
         int n = 50;
-        System.out.println("Prime numbers up to " + n + ":");
+        System.out.println("List of primes up to " + n + ":");
         for (int i = 2; i <= n; i++) {
             if (isPrime(i)) System.out.print(i + " ");
         }
