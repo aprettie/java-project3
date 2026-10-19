@@ -4,5 +4,5 @@ public class MaxOfThree {
     }
     public static void main(String[] args) {
         System.out.println("Max of 7, 15, 3 = " + max(7, 15, 3));
-    }
+    } // bugfix
 }
